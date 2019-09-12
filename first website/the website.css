@@ -1,0 +1,25 @@
+*{background:rgb(142 145 150);
+font-style: italic;
+text-transform: capitalize;
+margin: 0;
+padding: 0;
+}
+
+
+
+ li{ position: relative; text-align: right; right: 5px; top: 10px;
+}
+
+
+
+
+h1{ text-align: center; color: white; position: relative;
+}
+
+    footer{ text-align: right;  position: relative; top: 879px; font-size: 23px; color: white; right: 4px;
+
+
+    }
+
+
+
